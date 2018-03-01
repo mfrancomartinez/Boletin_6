@@ -22,5 +22,5 @@ public class Boletin_6_2 {
  obj2=obj1; 
  System.out.println(obj2.modificar(5)+" ");
     }
-    
+    /*resultado: 89 910 1314*/
 }
