@@ -22,4 +22,5 @@ public class Boletin_6_5 {
  } 
 } 
   
-/* La trilogía de nueva york de Paul Aster */
+/* Resultado : 
+La trilogía de nueva york de Paul Aster */
